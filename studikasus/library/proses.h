@@ -2,6 +2,7 @@ using namespace std;
 
 class Proses
 {
+	
 public:
 	void getData(){
 		ambil_data.open("apidata.txt");
